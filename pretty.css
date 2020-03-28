@@ -1,0 +1,104 @@
+.home {
+    font-family: monospace;
+    background-color: rgb(180,180,180);
+}
+
+.main-head {
+    font-size: 50px;
+    position: fixed;
+    left:40%; 
+    
+}
+
+.h2home{
+    background-color: darkcyan;
+    border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 15%;
+}
+
+.homep {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h3 {
+    margin-left: 10%;
+}
+
+img {
+    margin-left: 26%;
+}
+
+table {
+    border: solid;
+    margin-bottom: 50px;
+    margin-left: 20%;
+}
+
+#classy {
+    background-color: rgb(185, 157, 120);
+}
+
+#classhead {
+    font-family: cursive;
+    font-size: 60px;
+    margin-left: 2%;
+}
+
+.classh3 {
+    font-family: cursive;
+    font-weight: bold;
+    margin-left: 2%;
+}
+
+.classp {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h2 {
+    background-color: slategray;
+}
+
+ul{
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+
+#bar-home-class {
+    position: fixed;
+    top: 1%;
+    left: 18%;
+    border: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#bar-classic-class {
+    position: fixed;
+    top: 1%;
+    left: 33%;
+    border: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#bar-favs-class {
+    position: fixed;
+    top: 1%;
+    left: 47%;
+    border: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#bar-movies-class {
+    position: fixed;
+    top: 1%;
+    left: 65%;
+    border: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
